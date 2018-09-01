@@ -35,7 +35,16 @@ body, html {
   background-blend-mode: multiply;
   background-color: rgb(70,70,70); // Tint color
 }
-
+.bgimg-3 {
+  background-image: url('images/slideshow/board.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: white;
+  background-blend-mode: multiply;
+  background-color: rgb(70,70,70); // Tint color
+}
 </style>
 
 <body>
@@ -64,7 +73,9 @@ body, html {
       </div>
     </div>
     <div class="mySlides w3-animate-right w3-display-container bgimg-2 w3-center">
-        <div class="w3-display-middle w3-text-white" style="width:100%; text-align:center">
+        <div class="w3-display-middle w3-text-white" style="width:100%; text-align:center;">
+        <br>
+        <br>
         <span class="w3-jumbo">CCDC</span>
         <br>
         <br>
@@ -73,6 +84,22 @@ body, html {
         </span>
         <p><a href="/ccdc" class="w3-button w3-blue w3-text-white w3-padding-large w3-large w3-margin-top w3-transition-medium">
             About CCDC
+        </a></p>
+      </div>
+    </div>
+
+    <div class="mySlides w3-animate-right w3-display-container bgimg-3   w3-center">
+        <div class="w3-display-middle w3-text-white" style="width:100%; text-align:center;">
+        <br>
+        <br>
+        <span class="w3-jumbo">The Board</span>
+        <br>
+        <br>
+        <span class="w3-xlarge">
+          New, and ready to Cyber!
+        </span>
+        <p><a href="/board" class="w3-button w3-blue w3-text-white w3-padding-large w3-large w3-margin-top w3-transition-medium">
+            The Board
         </a></p>
       </div>
     </div>
