@@ -1,0 +1,9 @@
+# Page short Redirects
+Redirect 301 /ccdc /ccdc.php
+Redirect 301 /board /board.php
+Redirect 301 /calendar /calendar.php
+Redirect 301 /newsletter /newsletter.php
+
+# Social Media Redirects
+Redirect 301 /facebook https://www.facebook.com/groups/cyberuci/
+Redirect 301 /slack http://ucicyber.slack.com/signup
