@@ -41,10 +41,10 @@ body, html {
 <body>
 <?php include('common/navbar.html');?>
 <!-- Page content -->
-<header class="w3-content" style="max-width:2500px; height:100%;">
+<header class="w3-content w3-black" style="max-width:2500px; height:100%;">
 
     <!-- Automatic Slideshow Images -->
-    <div class="mySlides w3-display-container bgimg-1 w3-center">
+    <div class="mySlides w3-animate-right w3-display-container bgimg-1 w3-center">
 			<div>
 				<div class="w3-display-middle w3-row-padding w3-center" style="width:60%;max-width:400px;">
 					<div class="w3-image">
@@ -63,7 +63,7 @@ body, html {
 
       </div>
     </div>
-    <div class="mySlides w3-display-container bgimg-2 w3-center">
+    <div class="mySlides w3-animate-right w3-display-container bgimg-2 w3-center">
         <div class="w3-display-middle w3-text-white" style="width:100%; text-align:center">
         <span class="w3-jumbo">CCDC</span>
         <br>
@@ -193,7 +193,7 @@ function carousel() {
     myIndex++;
     if (myIndex > x.length) {myIndex = 1}
     x[myIndex-1].style.display = "block";
-    setTimeout(carousel, 4000);
+    setTimeout(carousel, 6000);
 }
 
 // Used to toggle the menu on small screens when clicking on the menu button
