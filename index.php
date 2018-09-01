@@ -161,7 +161,7 @@ body, html {
     </div>
   </div>
 
-  <!-- The Tour Section -->
+  <!-- The Join Section -->
   <div class="w3-black" id="join">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
       <h2 class="w3-wide w3-center">JOIN US</h2>
