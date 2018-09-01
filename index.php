@@ -1,19 +1,8 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Cyber @ UCI</title>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- Smooth Scrolling thanks to https://github.com/cferdinandi/smooth-scroll -->
-<!-- Get minor updates and patch fixes within a major version -->
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@14/dist/smooth-scroll.polyfills.min.js"></script>
-<script>
-	var scroll = new SmoothScroll('a[href*="#"]');
-</script>
-
+<?php include('common/head.html');?>
 </head>
 
 <style>
@@ -36,62 +25,60 @@ body, html {
   background-blend-mode: multiply;
   background-color: rgb(70,70,70); // Tint color
 }
+.bgimg-2 {
+  background-image: url('images/slideshow/ccdc.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: white;
+  background-blend-mode: multiply;
+  background-color: rgb(70,70,70); // Tint color
+}
 
 </style>
 
 <body>
+<?php include('common/navbar.html');?>
+<!-- Page content -->
+<header class="w3-content" style="max-width:2500px; height:100%;">
 
-<!-- Navbar -->
-<div class="w3-top">
-  <div class="w3-bar w3-black w3-card">
-    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="/#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <!-- Automatic Slideshow Images -->
+    <div class="mySlides w3-display-container bgimg-1 w3-center">
+			<div>
+				<div class="w3-display-middle w3-row-padding w3-center" style="width:60%;max-width:400px;">
+					<div class="w3-image">
+					<img src="/images/logo.png" style="width:90%;">
+					</div>
+					<span class="w3-jumbo">Cyber @ UCI</span>
+					<br>
+					<br>
+					<span class="w3-xlarge">We do all things Cybersecurity</span>
+					<p><a href="#about" class="w3-button w3-blue w3-text-white w3-padding-large w3-large w3-margin-top w3-transition-medium">
+							About Us
+					</a></p>
+				</div>
+			</div>
+        <div class="w3-display-middle w3-text-white" style="width:100%; text-align:center">
 
-    <a href="/#about" class="w3-bar-item w3-button w3-padding-large">ABOUT</a>
-    <a href="/#join" class="w3-bar-item w3-button w3-padding-large">JOIN</a>
-
-    <a class="w3-bar-item w3-button w3-padding-large w3-hide-small w3-right" onclick="showContactModal()"><i class="fa fa-plane"></i> CONTACT</a>
-    <div class="w3-dropdown-hover w3-hide-small">
-      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>
-      <div class="w3-dropdown-content w3-bar-block w3-card-4">
-        <a href="#" class="w3-bar-item w3-button">Past Meetings</a>
-        <a href="board.html" class="w3-bar-item w3-button">Board</a>
-        <a href="#" class="w3-bar-item w3-button">Calendar</a>
       </div>
     </div>
-  </div>
-</div>
-
-<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
-<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="#band" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">BAND</a>
-  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">TOUR</a>
-  <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
-  <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">MERCH</a>
-</div>
-
-<!-- Page content -->
-<header class="w3-content" style="max-width:2500px;margin-top:46px; height:100%;">
-
-  <!-- Automatic Slideshow Images -->
-  <div class="mySlides w3-display-container bgimg-1 w3-center">
+    <div class="mySlides w3-display-container bgimg-2 w3-center">
+        <div class="w3-display-middle w3-text-white" style="width:100%; text-align:center">
+        <span class="w3-jumbo">CCDC</span>
+        <br>
+        <br>
+        <span class="w3-xlarge">Collegiate Cyber Defense Competition<br>
+          Now training for the 2018-19 season!
+        </span>
+        <p><a href="/ccdc" class="w3-button w3-blue w3-text-white w3-padding-large w3-large w3-margin-top w3-transition-medium">
+            About CCDC
+        </a></p>
+      </div>
     </div>
-      <div class="w3-display-middle w3-text-white" style="width:100%; text-align:center">
-      <span class="w3-jumbo">Cyber @ UCI</span>
-      <br>
-      <br>
-      <span class="w3-xlarge">We do all things Cybersecurity</span>
-      <p><a href="#about" class="w3-button w3-blue w3-text-white w3-padding-large w3-large w3-margin-top w3-transition-medium">
-          About Us
-      </a></p>
-    </div>
-
-  </div>
 
   <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
-    <a href="https://www.facebook.com/zotbotics/"><i class="fab fa-facebook w3-hover-opacity"></i></a>
-    <a href="https://www.instagram.com/zotboticsatuci/"><i class="fab fa-instagram w3-hover-opacity"></i></a>
-    <a href="http://zotbotics.slack.com/signup"><i class="fab fa-slack w3-hover-opacity"></i></a>
+	  <?php include('common/social.html');?>
   </div>
 
 </header>
@@ -120,6 +107,7 @@ body, html {
           <p class="w3-xlarge">Workshops</p>
           <p class="autoflow" autoflowid=0>
             We highlight in-house talent, discuss major news events, or tackle common security topics in our weekly workshops.
+            Stay tuned on Facebook for upcoming workshops and topics.
           </p>
         </div>
       </div>
@@ -181,36 +169,14 @@ body, html {
     </div>
   </div>
 
-  <!-- Contact Modal -->
-  <div id="contactModal" class="w3-modal">
-    <div class="w3-modal-content w3-animate-top w3-card-4">
-      <header class="w3-container w3-blue w3-center w3-padding-32">
-        <span onclick="document.getElementById('contactModal').style.display='none'"
-       class="w3-button w3-blue w3-xlarge w3-display-topright">×</span>
-        <h2 class="w3-wide">Contact Cyber @ UCI</h2>
-      </header>
-      <div class="w3-container">
-        <form action="/contact.php" target="_blank">
-          <p><label><i class="fa fa-user"></i> Your Name</label></p>
-          <input class="w3-input w3-border" type="text" placeholder="Name" required name = "Name">
-          <p><label><i class="fa fa-envelope"></i> Email</label></p>
-          <input class="w3-input w3-border" type="email" placeholder="Enter email" required name = "Email">
-          <p><label><i class="fa fa-comments"></i> Your Message</label></p>
-          <textarea class="w3-input w3-border" type="text" placeholder="Message" required name="Message"></textarea>
-          <button class="w3-button w3-block w3-blue w3-padding-16 w3-section w3-right" type="submit">SEND</button>
-        </form>
-      </div>
-    </div>
-  </div>
 
 <!-- End Page Content -->
 </div>
 
 <!-- Footer -->
-<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
-  <a href="/facebook"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
-  <a href="/slack"><i class="fa fa-slack w3-hover-opacity"></i></a>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+<footer class="w3-container w3-padding-16 w3-center w3-opacity w3-light-grey w3-xlarge">
+	<?php include('common/social.html');?>
+	<?php include('common/legal.html');?>
 </footer>
 
 <script>
@@ -240,20 +206,6 @@ function myFunction() {
     }
 }
 
-// When the user clicks anywhere outside of the modal, close it
-var modal = document.getElementById('contactModal');
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-
-function showContactModal(){
-  modal.style.display = "block";
-}
-function hideContactModal(){
-  modal.style.display = "none";
-}
 </script>
 
 <!--Autoflow the needed divs-->
