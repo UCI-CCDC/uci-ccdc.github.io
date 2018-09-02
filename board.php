@@ -5,10 +5,10 @@
 </head>
 <?php include('common/navbar.html');?>
 
-<div class="w3-container w3-content w3-center w3-padding-64">
-	<h2 class="w3-wide">THE BOARD</h2>
+<div class="w3-container w3-content w3-center w3-padding-32">
+	<h2 class="w3-wide w3-padding-32">THE BOARD</h2>
 
-	<div class="w3-row-padding" style="margin-top:64px">
+	<div class="w3-row-padding">
 
 
 		<div class="w3-col l4 m6 w3-margin-bottom">
