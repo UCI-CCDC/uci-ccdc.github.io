@@ -189,8 +189,8 @@ body, html {
 
           <tr>
             <th style="padding:.5em;"><div class="w3-circle w3-white w3-text-black w3-xxxlarge w3-padding-16" style="width: 2em; height:2em;"> 3</div></th>
-            <th><span class="w3-xlarge">Attend</span><br>You can join our <a href="/ccdc">CCDC Team</a>, head to <a href="/defcon">Defcon</a> with us,
-               or participate in our <a href="/ctf">CTF</a>. These involements are seasonal so make sure you sign up to our mailing list to hear about them.</th>
+            <th><span class="w3-xlarge">Attend</span><br>You can join our <a href="/ccdc">CCDC Team</a>, head to <a href="https://www.defcon.org/">Defcon</a> with us,
+               or participate in our <a href="http://cyberctf.ics.uci.edu/">CTF</a>. These involements are seasonal so make sure you sign up to our mailing list to hear about them.</th>
           </tr>
       </table>
     </div>
