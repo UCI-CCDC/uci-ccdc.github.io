@@ -16,7 +16,7 @@ body, html {
 
 /* Full height image header */
 .bgimg-1 {
-  background-image: url('images/slideshow/welcome.jpg');
+  background-image: url('/assets/images/slideshow/welcome.jpg');
   height: 100%;
   background-position: center;
   background-size: cover;
@@ -26,7 +26,7 @@ body, html {
   background-color: rgb(70,70,70); // Tint color
 }
 .bgimg-2 {
-  background-image: url('images/slideshow/ccdc.jpg');
+  background-image: url('/assets/images/slideshow/ccdc.jpg');
   height: 100%;
   background-position: center;
   background-size: cover;
@@ -36,7 +36,7 @@ body, html {
   background-color: rgb(70,70,70); // Tint color
 }
 .bgimg-3 {
-  background-image: url('images/slideshow/board.jpg');
+  background-image: url('/assets/images/slideshow/board.jpg');
   height: 100%;
   background-position: center;
   background-size: cover;
