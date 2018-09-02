@@ -13,7 +13,7 @@
 
 		<div class="w3-col l4 m6 w3-margin-bottom">
 			<div class="w3-card w3-white">
-				<img src="/images/board/jacob.jpg" alt="Member" style="width:100%">
+				<img src="/assets/images/board/jacob.jpg" alt="Member" style="width:100%">
 				<div class="w3-container">
 					<h3>Jacob Sigismonti</h3>
 					<p>President</p>
@@ -23,7 +23,7 @@
 		</div>
 		<div class="w3-col l4 m6 w3-margin-bottom">
 			<div class="w3-card w3-white">
-				<img src="/images/board/alvin.jpg" alt="Member" style="width:100%">
+				<img src="/assets/images/board/alvin.jpg" alt="Member" style="width:100%">
 				<div class="w3-container">
 					<h3>Alvin Nguyen</h3>
 					<p>External VP</p>
@@ -33,7 +33,7 @@
 		</div>
 		<div class="w3-col l4 m6 w3-margin-bottom">
 			<div class="w3-card w3-white">
-				<img src="/images/board/tommy.jpg" alt="Member" style="width:100%">
+				<img src="/assets/images/board/tommy.jpg" alt="Member" style="width:100%">
 				<div class="w3-container">
 					<h3>Tommy Le</h3>
 					<p>Internal VP</p>
@@ -46,7 +46,7 @@
 		</div>
 		<div class="w3-col l4 m6 w3-margin-bottom">
 			<div class="w3-card w3-white">
-				<img src="/images/board/hassan.jpg" alt="Member" style="width:100%">
+				<img src="/assets/images/board/hassan.jpg" alt="Member" style="width:100%">
 				<div class="w3-container">
 					<h3>Hassan Khokhar</h3>
 					<p>Marketing</p>
@@ -59,7 +59,7 @@
 		</div>
 		<div class="w3-col l4 m6 w3-margin-bottom">
 			<div class="w3-card w3-white">
-				<img src="/images/board/micah.jpg" alt="Member" style="width:100%">
+				<img src="/assets/images/board/micah.jpg" alt="Member" style="width:100%">
 				<div class="w3-container">
 					<h3>Micah Raney</h3>
 					<p>Treasurer & Corporate Outreach</p>

@@ -57,7 +57,7 @@ body, html {
 			<div>
 				<div class="w3-display-middle w3-row-padding w3-center" style="width:60%;max-width:400px;">
 					<div class="w3-image">
-					<img src="/images/logo.png" style="width:90%;">
+					<img src="/assets/images/logo.png" style="width:90%;">
 					</div>
 					<span class="w3-jumbo">Cyber @ UCI</span>
 					<br>
@@ -129,7 +129,7 @@ body, html {
 
     <div class="w3-row-padding" style="margin-top:64px; margin-bottom:64px">
       <div class="w3-col l4 m4 w3-margin-bottom">
-        <img src="/images/workshops.jpg" style="width:100%" alt="Avatar">
+        <img src="/assets/images/workshops.jpg" style="width:100%" alt="Avatar">
         <div class="w3-card w3-container w3-white w3-padding w3-round">
           <p class="w3-xlarge">Workshops</p>
           <p class="autoflow" autoflowid=0>
@@ -139,7 +139,7 @@ body, html {
         </div>
       </div>
       <div class="w3-col l4 m4 w3-margin-bottom">
-        <img src="/images/ctf.png" style="width:100%" alt="Avatar">
+        <img src="/assets/images/ctf.png" style="width:100%" alt="Avatar">
         <div class="w3-card w3-container w3-white w3-padding w3-round">
           <p class="w3-xlarge">CTFs</p>
           <p class="autoflow" autoflowid=0>
@@ -149,7 +149,7 @@ body, html {
         </div>
       </div>
       <div class="w3-col l4 m4 w3-margin-bottom">
-        <img src="/images/ccdc.jpg" style="width:100%" alt="Avatar">
+        <img src="/assets/images/ccdc.jpg" style="width:100%" alt="Avatar">
         <div class="w3-card w3-container w3-white w3-padding w3-round">
           <p class="w3-xlarge">CCDC</p>
           <p class="autoflow" autoflowid=0>
