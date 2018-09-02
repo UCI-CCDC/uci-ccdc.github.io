@@ -128,7 +128,7 @@ body, html {
     </p>
 
     <div class="w3-row-padding" style="margin-top:64px; margin-bottom:64px">
-      <div class="w3-col l4 m4">
+      <div class="w3-col l4 m4 w3-margin-bottom">
         <img src="/images/workshops.jpg" style="width:100%" alt="Avatar">
         <div class="w3-card w3-container w3-white w3-padding w3-round">
           <p class="w3-xlarge">Workshops</p>
@@ -138,7 +138,7 @@ body, html {
           </p>
         </div>
       </div>
-      <div class="w3-col l4 m4">
+      <div class="w3-col l4 m4 w3-margin-bottom">
         <img src="/images/ctf.png" style="width:100%" alt="Avatar">
         <div class="w3-card w3-container w3-white w3-padding w3-round">
           <p class="w3-xlarge">CTFs</p>
@@ -148,7 +148,7 @@ body, html {
           </p>
         </div>
       </div>
-      <div class="w3-col l4 m4">
+      <div class="w3-col l4 m4 w3-margin-bottom">
         <img src="/images/ccdc.jpg" style="width:100%" alt="Avatar">
         <div class="w3-card w3-container w3-white w3-padding w3-round">
           <p class="w3-xlarge">CCDC</p>
