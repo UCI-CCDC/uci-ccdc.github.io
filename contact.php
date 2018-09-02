@@ -47,7 +47,7 @@ if(!isset($_POST['name']) ||
 
   //set up email content
   $to = "ucicyber@gmail.com";
-  $subject = "[WEBSITE CONTACT] Message from  $name ($email)";
+  $subject = "[WEBSITE] Message from  $name ($email)";
   $headers = "Reply-to: $email";
   $message = "Message from  $name ($email) \r\n";
   $message .= "UTC Timestamp: ". gmdate("M d Y H:i:s", time());
