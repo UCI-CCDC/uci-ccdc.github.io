@@ -50,7 +50,7 @@ if(!isset($_POST['name']) ||
   $subject = "[WEBSITE CONTACT] Message from  $name ($email)";
   $headers = "Reply-to: $email";
   $message = "Message from  $name ($email) \r\n";
-  $message .= "Timestamp: ". gmdate("M d Y H:i:s", time());
+  $message .= "UTC Timestamp: ". gmdate("M d Y H:i:s", time());
   $message .= "\r\n\r\n";
   $message .= "MESSAGE BELOW\r\n";
   $message .= "=============================";
