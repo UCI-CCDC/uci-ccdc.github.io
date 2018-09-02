@@ -1,5 +1,5 @@
 <html>
-<title>Cyber @ UCI | Calendar</title>
+<title>Cyber @ UCI | CCDC</title>
 <head>
 <?php include('common/head.html');?>
 </head>
