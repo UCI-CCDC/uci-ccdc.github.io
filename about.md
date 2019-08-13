@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p style="text-align: center">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<h2>
+ABOUT US
+</h2>
 
 
-[jekyll-organization]: https://github.com/jekyll
+</p>
+
+
+
+Cyber @ UCI was created from a desire to have more cybersecurity exposure and learning at UCI. Despite being a rapidly growing, and extremely important field, cybersecurity is often only relegated to a couple upper division classes. That just isn't right! At its core, being 'good' at cybersecurity necessitates being plugged into the security community, and keeping up to date with all the latest developments. Cyber @ UCI offers such a place, bringing people from all levels of experience together with one common interest: cybersecurity. Yet more than just a common interest, we have several branches of involvement that we offer...
