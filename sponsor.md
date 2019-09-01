@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsor | Cyber @ UCI
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Sponsor Cyber @ UCI!
 sitemap:
     priority: 0.5
     lastmod: 2017-11-02

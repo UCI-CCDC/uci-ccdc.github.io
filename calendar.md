@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Calendar | Cyber @ UCI
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Cyber @ UCI's Calendar
 sitemap:
     priority: 0.5
-    lastmod: 2017-11-02
+    lastmod: 2019-09-01
     changefreq: weekly
 ---
 <center>

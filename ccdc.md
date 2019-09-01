@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "CCDC"
-date:   2017-10-31
+date:   2019-09-01
 ---
 <header class="major">
   <h2><a href="#">CCDC</a></h2>

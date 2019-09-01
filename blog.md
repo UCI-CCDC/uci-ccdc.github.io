@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: Blog | Cyber @ UCI
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+description: Cyber @ UCI's Blog
 sitemap:
     priority: 1.0
-    lastmod: 2017-11-02
+    lastmod: 2019-09-01
     changefreq: weekly
 ---
