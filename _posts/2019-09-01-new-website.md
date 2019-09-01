@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Announcing our New Website"
-date:   2019-08-03
+date:   2019-09-01
 excerpt: "Cyber's new website prepares us for a bright future"
 image: "/images/newsite.jpg"
 ---
