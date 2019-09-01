@@ -1,0 +1,16 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">
+    <img src="{{ "/images/logo_greyscale.png" | absolute_url}}" alt="HOME" style="height:55px;">
+  </a></li>
+  <li class="{% if page.url contains '/board/' %} active {% endif %}"><a href="{{ "/board/" | absolute_url }}">Board</a></li>
+  <li class="{% if page.url contains '/ccdc/' %} active {% endif %}"><a href="{{ "/ccdc/" | absolute_url }}">CCDC</a></li>
+  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+  <li class="{% if page.url contains '/calendar/' %} active {% endif %}"><a href="{{ "/calendar/" | absolute_url }}">Calendar</a></li>
+  <li class="{% if page.url contains '/sponsor/' %} active {% endif %}"><a href="{{ "/sponsor/" | absolute_url }}">Sponsor</a></li>
+</ul>
+
+<ul class="icons">
+  <li><a href="{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+  <li><a href="{{site.slack}}" class="icon fa-slack" rel="nofollow"><span class="label">Slack</span></a></li>
+  <li><a href="mailto:{{site.email}}" class="icon fa-envelope" rel="nofollow"><span class="label">Facebook</span></a></li>
+</ul>
