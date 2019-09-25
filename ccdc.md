@@ -34,6 +34,6 @@ happy to help explain
 
 
 ### What Next?
-<a href="/slack" class="w3-button w3-white w3-text-black w3-padding-large w3-large w3-margin-top w3-transition-medium">
+<a href="https://ucicyber.slack.com/messages/C7K08HFUL" class="w3-button w3-white w3-text-black w3-padding-large w3-large w3-margin-top w3-transition-medium">
 		Join #ccdc on Slack
 </a>
