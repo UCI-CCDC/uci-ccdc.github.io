@@ -7,8 +7,7 @@ image: "/images/first_meeting_2019.jpg"
 ---
 ### Our First Meeting
 
-Thank you to everyone who was able to make it to our first Cyber meeting in DBH 1423. We had a great turnout,
- and got to introduce several students into what we do as a club, and into the broader world of security as a whole.
+Thank you to everyone who was able to make it to our first Cyber meeting in DBH 1423. We had a great turnout, and got to introduce several students into what we do as a club, and into the broader world of security as a whole.
 
 
 ### General Meeting Dates
@@ -27,7 +26,7 @@ Cyber plans on helping to create a group of members that specifically focus on C
 
 
 ### LANs
-This Quarter Cyber and CCDC will also be hosting LANs in addition to the general Cyber meetings, CCDC meetings, and CTF team. We will be working to create LAN events and LAN parties for our members to enjoy, as well as invite members to help setting up those LAN environments, to give them experience working with real network setup. 
+This quarter Cyber and CCDC will also be hosting LANs in addition to the general Cyber meetings, CCDC meetings, and CTF team. We will be working to create LAN events and LAN parties for our members to enjoy, as well as invite members to help setting up those LAN environments, to give them experience working with real network setup. 
 
 
 
