@@ -5,7 +5,6 @@ date:   2019-10-04
 excerpt: "What's coming in Fall '19"
 image: "/images/first_meeting_2019.jpg"
 ---
-
 ###Our First Meeting
 
 Thank you to everyone who was able to make it to our first Cyber meeting in DBH 1423. We had a great turnout, and got to introduce several students into what we do as a club, and into the broader world of security as a whole.
