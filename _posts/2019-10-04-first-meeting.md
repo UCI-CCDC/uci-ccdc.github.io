@@ -31,4 +31,4 @@ This Quarter Cyber and CCDC will also be hosting LANs in addition to the general
 
 
 
-\- *David Parra \| CCDC Team Lead *
+\- *David Parra \| CCDC Team Lead*
