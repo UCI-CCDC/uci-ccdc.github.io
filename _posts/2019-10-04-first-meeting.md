@@ -11,7 +11,7 @@ Thank you to everyone who was able to make it to our first Cyber meeting in DBH 
  and got to introduce several students into what we do as a club, and into the broader world of security as a whole.
 
 
-###General Meeting Dates
+### General Meeting Dates
 
 For Fall quarter we will be having Cyber meetings every other week, so weeks 1, 3, 5, 7, and 9. These meetings will be held at 6:30pm in DBH 1423* (subject to change).
 
