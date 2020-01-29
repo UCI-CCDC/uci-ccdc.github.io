@@ -24,8 +24,7 @@ Women in Cybersecurity
 
 ### When 
 
-Our CTF will be held on Saturday April 4, week one of spring quarter. The location is still to be determined, but will still
-be on the UCI campus.
+Our CTF will be held on Saturday April 4, week one of spring quarter In DBH 6011.
 
 ### Prizes
 
@@ -34,7 +33,9 @@ As part of our CTF we will be awarding prizes to the top three teams.
 ### How to join
 
 To compete in our CTF you will need to register a team that can have from 1-4 people on it. The registration form is
-available <a href=https://forms.gle/4MrYUSNAYT7aEqs39>here</a>
+available <a href="https://forms.gle/4MrYUSNAYT7aEqs39">
+here
+</a>
 
 ### I'm new!
 CTFs are a great place for begginners interested in security, as there are a wide variety of questions meant to
