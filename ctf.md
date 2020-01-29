@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "CTF"
+title:  "CTF | Cyber @ UCI"
 date:   2020-01-029
 ---
 <header class="major">
