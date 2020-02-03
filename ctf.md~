@@ -34,7 +34,7 @@ As part of our CTF we will be awarding prizes to the top three teams.
 
 To compete in our CTF you will need to register a team that can have from 1-4 people on it. The registration form is
 available <a href="https://forms.gle/4MrYUSNAYT7aEqs39">
-<b>here</b>
+here
 </a>
 
 ### I'm new!
