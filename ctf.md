@@ -38,5 +38,5 @@ here
 </a>
 
 ### I'm new!
-CTFs are a great place for begginners interested in security, as there are a wide variety of questions meant to
+CTFs are a great place for beginners interested in security, as there are a wide variety of questions meant to
 be suitable for people of all different skill levels.
