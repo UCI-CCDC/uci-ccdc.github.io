@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Our 2019-20 Board"
-date:   2019-04-10
+title:  "Our 2020-21 Board"
+date:   2020-09-05
 ---
 
 <ul>
-<li>Jacob Sigismonti, President</li>
-<li>Alvin Nguyen, External VP</li>
-<li>David Parra, CCDC Team Lead</li>
+<li>Jordan Whiting, President</li>
+<li>Jacob Bokor, External VP</li>
+<li>Alan Nguyen, Treasurer</li>
+<li>Jee Kim, Secretary</li>
 </ul>
 
 Feel free to reach out to us via the Cyber @ UCI contact form or email:
- *ucicyber [at] uci [dot] edu*
+ *cyberclub [at] uci [dot] edu*
