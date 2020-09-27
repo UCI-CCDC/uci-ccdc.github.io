@@ -13,11 +13,12 @@ disqus_shortname:   default
 analytics-id:       "UA-88419750-1"
 facebook:           https://www.facebook.com/groups/cyberuci/
 slack:              https://ucicyber.slack.com/signup
+discord:            https://discord.gg/kSpR9uv
 
 # personal
 location:           Irvine, CA
 phone:              xxx-xxx-xxxx
-email:              ucicyber@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              cyberclub@uci.edu
 
 # Other
 background_image:   /images/welcome.jpg

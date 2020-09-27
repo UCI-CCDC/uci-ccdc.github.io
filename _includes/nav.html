@@ -1,18 +1,18 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">
-    <img src="{{ "/images/logo_greyscale.png" | absolute_url}}" alt="HOME" style="height:55px;">
+    <img src="{{ "/images/logo_greyscale.png" | absolute_url}}" alt="HOME" style="padding-top: 0.75em; height:4em;">
   </a></li>
   <li class="{% if page.url contains '/board/' %} active {% endif %}"><a href="{{ "/board/" | absolute_url }}">Board</a></li>
   <li class="{% if page.url contains '/ccdc/' %} active {% endif %}"><a href="{{ "/ccdc/" | absolute_url }}">CCDC</a></li>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
   <li class="{% if page.url contains '/calendar/' %} active {% endif %}"><a href="{{ "/calendar/" | absolute_url }}">Calendar</a></li>
   <li class="{% if page.url contains '/sponsor/' %} active {% endif %}"><a href="{{ "/sponsor/" | absolute_url }}">Sponsor</a></li>
-  <li class="{% if page.url contains '/ctf/' %} active {% endif %}"><a href="{{ "/ctf/" | absolute_url }}">CTF</a></li>
+  <!--<li class="{% if page.url contains '/ctf/' %} active {% endif %}"><a href="{{ "/ctf/" | absolute_url }}">CTF</a></li>-->
 </ul>
 </ul>
 
 <ul class="icons">
-  <li><a href="{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-  <li><a href="{{site.slack}}" class="icon fa-slack" rel="nofollow"><span class="label">Slack</span></a></li>
-  <li><a href="mailto:{{site.email}}" class="icon fa-envelope" rel="nofollow"><span class="label">Facebook</span></a></li>
+  <!--<li><a href="{{site.facebook}}" class="fab fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>-->
+  <li><a href="{{site.discord}}" class="fab fa-discord fa-lg" rel="nofollow"></a></li>
+  <li><a href="mailto:{{site.email}}" class="fas fa-envelope fa-lg " rel="nofollow"></a></li>
 </ul>

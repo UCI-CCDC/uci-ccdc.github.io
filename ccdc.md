@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "CCDC"
-date:   2019-09-01
+date:   2020-09-27
 ---
 <header class="major">
   <h2><a href="#">CCDC</a></h2>
@@ -9,8 +9,8 @@ date:   2019-09-01
   </p>
 </header>
 
-<span class="image fit"><img src="{{ "/images/ccdc-champ.jpg" | absolute_url }}" alt="" /></span>
-Cyber's team at the 2019 Western Regional Collegiate Cybersecurity Competition (WRCCDC)
+<span class="image fit"><img src="{{ "/images/ccdc-2020.jpg" | absolute_url }}" alt="" /></span>
+Cyber's team at the 2020 Western Regional Collegiate Cybersecurity Competition (WRCCDC) qualifier.
 
 <hr />
 
@@ -29,11 +29,11 @@ learn about new defense techniques, common security mistakes, and proper setup a
 
 ### I'm new!
 While sometimes overwhelming, CCDC is a great place to jump in for beginners as well, since
-the team structure is meant to facilitate cooperative learning and many CCDC veterans area
+the team structure is meant to facilitate cooperative learning and many CCDC veterans are
 happy to help explain
 
 
-### What Next?
-<a href="https://ucicyber.slack.com/messages/C7K08HFUL" class="w3-button w3-white w3-text-black w3-padding-large w3-large w3-margin-top w3-transition-medium">
-		Join #ccdc on Slack
+### What's Next?
+<a href="https://discord.gg/6NS547w" class="w3-button w3-white w3-text-black w3-padding-large w3-large w3-margin-top w3-transition-medium">
+		Join #ccdc on Discord
 </a>

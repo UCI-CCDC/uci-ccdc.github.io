@@ -8,7 +8,9 @@ $background_image: '{{site.background_image}}';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/skel';
-@import 'font-awesome.min.css';
+@import 'fontawesome.min.css';
+@import 'brands.min.css';
+@import 'solid.min.css';
 @import url('https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900');
 
 /*
