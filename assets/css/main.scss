@@ -71,3 +71,10 @@ $background_image: '{{site.background_image}}';
 	@import 'layout/main';
 	@import 'layout/footer';
 	@import 'layout/navPanel';
+
+.redirectAlert {
+  padding: 20px;
+  background-color: #f44336; /* Red */
+  color: white;
+  margin-bottom: 15px;
+}
