@@ -1,0 +1,18 @@
+html {
+    background-color: #323232;
+}
+
+.alert {
+    max-width: 700px;
+    padding: 20px;
+    background-color: #cb0000;
+    color: white;
+    font-size: 30px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+}
+
+a {
+    color: #69bedb;
+}
